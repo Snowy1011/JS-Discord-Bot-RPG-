@@ -40,7 +40,7 @@
                 var member_xp, member_level;
 
 
-s4d.client.login('ODMxNjE4MzgyMjkzMzY4ODQy.YHX2-Q.vyb8r1EgRyi86LS1p2ZYBFFKZwU').catch((e) => { s4d.tokenInvalid = true; s4d.tokenError = e; });
+s4d.client.login('<Your token here>').catch((e) => { s4d.tokenInvalid = true; s4d.tokenError = e; });
 
 s4d.client.on('message', async (s4dmessage) => {
   if (!((s4dmessage.member).user.bot)) {
