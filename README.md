@@ -1,2 +1,2 @@
-# JS-Discord-Bot-RPG-
-A RPG Bot made in Javascript!
+# JS-Discord-Bot-Leveling
+A Xp Bot made in Javascript!
